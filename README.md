@@ -160,6 +160,3 @@ The dashboard will open in your browser.
     Live websocket updates
     Backend caching (Redis)
     Advanced metrics (review depth, rework rate, bus factor)
-
-**SCREENSHOTS**
-<img width="624" height="273" alt="Picture1" src="https://github.com/user-attachments/assets/e28a2abb-97cd-451e-9823-3cbf94bc8932" />
